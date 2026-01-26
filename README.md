@@ -45,7 +45,7 @@ To run the bot, you need to set the following environment variables:
 | `DB_NAME` | Database Name (default: `SaveRestricted2`) |
 | `LOG_CHANNEL` | Channel ID for logging new users and errors |
 | `ERROR_MESSAGE` | `True` or `False` (Send error messages to user) |
-| `KEEP_ALIVE_URL` | URL to ping for keep-alive (optional) |
+| `KEEP_ALIVE_URL` | URL to ping for keep-alive (No need, Use UptimeRobot) | 
 
 ### Local Setup
 
@@ -113,9 +113,9 @@ A huge thanks to the developers who made this project possible:
 
 <div align="center">
 
-| [**Abhi**](https://t.me/about_zani/143) | [**Abhinav**](https://t.me/adityaabhinav) | [**Bharath**](https://t.me/Bharath_boy) | [**Master**](https://t.me/V_Sbotmaker) |
-| :---: | :---: | :---: | :---: |
-| Owner | Developer | Developer | Developer |
+| [**Abhi**](https://t.me/about_zani/143) | [**Abhinav**](https://t.me/adityaabhinav) | [**Bharath**](https://t.me/Bharath_boy) | [**Master**](https://t.me/V_Sbotmaker) | [**LastPerson07**](https://github.com/LastPerson07/)
+| :---: | :---: | :---: | :---: | :---: | 
+| Owner | Developer | Developer | Developer | Modifier |
 
 </div>
 
