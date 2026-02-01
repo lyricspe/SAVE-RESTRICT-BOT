@@ -6,9 +6,10 @@
 # Don't Remove Credit 
 # Telegram Channel @RexBots_Official
 import os
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", " 8394406756:AAEqLrId0unK-AJ86xXg4uYNTEjmmQ2mFCI ")
+API_ID = int(os.environ.get("API_ID", " 35397703
+"))
+API_HASH = os.environ.get("API_HASH", " a1357fa4d504abc2c292ef956ccfab28 ")
 ADMINS = [int(id) for id in os.environ.get("ADMINS", "").split(",")]
 DB_URI = os.environ.get("DB_URI", "")
 DB_NAME = os.environ.get("DB_NAME", "")
