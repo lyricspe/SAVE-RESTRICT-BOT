@@ -11,7 +11,7 @@ API_ID = int(os.environ.get("API_ID", " 35397703
 "))
 API_HASH = os.environ.get("API_HASH", " a1357fa4d504abc2c292ef956ccfab28 ")
 ADMINS = [int(id) for id in os.environ.get("ADMINS", "").split(",")]
-DB_URI = os.environ.get("DB_URI", "")
+DB_URI = os.environ.get("DB_URI", " mongodb+srv://lyricspe0_db_user:iEsNnBXSRMJhaRoZ@cluster0.4t4z3l6.mongodb.net/?appName=Cluster0 ")
 DB_NAME = os.environ.get("DB_NAME", "")
 LOG_CHANNEL = -1003656791142
 ERROR_MESSAGE = bool(os.environ.get('ERROR_MESSAGE', True))
